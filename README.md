@@ -1,6 +1,6 @@
-# CabShare-IITH
+# CabShare-IITBHU
 
-CabShare-IITH is a web application developed using Next.js and Chakra UI for the frontend, and Firebase for the backend. It provides a platform for members of IIT Hyderabad to share cab rides, helping them find fellow passengers and reduce commuting costs.
+CabShare-IITBHU is a web application developed using Next.js and Chakra UI for the frontend, and Firebase for the backend. It provides a platform for members of IIT Hyderabad to share cab rides, helping them find fellow passengers and reduce commuting costs.
 
 ## Technologies Used
 
@@ -8,9 +8,6 @@ CabShare-IITH is a web application developed using Next.js and Chakra UI for the
 - **Chakra UI**: Chakra UI is a popular component library for building user interfaces with React. It offers a set of customizable and accessible UI components that helped us create a consistent and visually appealing design.
 - **Firebase**: Firebase is a backend-as-a-service (BaaS) platform that provides various services like database, authentication, and hosting. We utilized Firebase's Firestore database for storing cab listings and user information and Firebase Authentication for user authentication and authorization.
 
-## Screenshots
-
-![App Screenshot](https://github.com/BhinTatta/cabshareIITH/blob/main/screenshots/Untitled%20design%20(1).png?raw=true)
 
 ## Features
 
@@ -31,27 +28,12 @@ CabShare-IITH is a web application developed using Next.js and Chakra UI for the
 - **Implementing Server-Side Rendering (SSR)**: Initially, we faced challenges while integrating server-side rendering into our Next.js application. However, with the help of the Next.js framework and thorough documentation, we were able to implement SSR successfully.
 - **Managing Mobile and Web UI**: We encountered difficulties in ensuring a seamless user experience on both mobile and web platforms. Through responsive design techniques and media queries, we were able to optimize the UI for different devices and screen sizes.
 
-## Getting Started
-
-To run the CabShare-IITH project locally, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/your-username/CabShare-IITH.git`
-2. Install dependencies: `cd CabShare-IITH` and `npm install`
-3. Set up Firebase:
-   - Create a new Firebase project at [https://console.firebase.google.com](https://console.firebase.google.com)
-   - Enable Firestore database and Authentication services in the Firebase project
-   - Obtain the Firebase configuration values and update them in the project's `.env.local` file
-4. Add your firebase configuration to the `./firebase` component
-5. Start the development server: `npm run dev`
-6. Open the application in your browser at `http://localhost:3000`
 
 ## Contributing
 
-I welcome contributions to enhance the features and functionality of CabShare-IITH. If you have any suggestions, bug fixes, or new feature implementations, feel free to open an issue or submit a pull request.
+I welcome contributions to enhance the features and functionality of CabShare-IITBHU. If you have any suggestions, bug fixes, or new feature implementations, feel free to open an issue or submit a pull request.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
