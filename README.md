@@ -1,6 +1,6 @@
 # CabShare-IITBHU
 
-CabShare-IITBHU is a web application developed using Next.js and Chakra UI for the frontend, and Firebase for the backend. It provides a platform for members of IIT Hyderabad to share cab rides, helping them find fellow passengers and reduce commuting costs.
+CabShare-IITBHU is a web application developed using Next.js and Chakra UI for the frontend, and Firebase for the backend. It provides a platform for members of IIT Varanasi to share cab rides, helping them find fellow passengers and reduce commuting costs.
 
 ## Technologies Used
 
@@ -39,5 +39,5 @@ I welcome contributions to enhance the features and functionality of CabShare-II
 
 If you have any questions or need further assistance, please reach out to me:
 
-- Kartik Kalia - https://www.linkedin.com/in/kartik-kalia-78276314b/
+- Gomtesh  - https://www.linkedin.com/in/gomtesh-rawat/
 
